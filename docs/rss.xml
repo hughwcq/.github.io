@@ -1,2 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://hughwcq.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hughwcq.github.io</link></image><lastBuildDate>Mon, 25 Mar 2024 15:14:09 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://hughwcq.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hughwcq.github.io</link></image><lastBuildDate>Mon, 25 Mar 2024 15:18:24 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>LeetCode Hot100</title><link>https://hughwcq.github.io/post/LeetCode%20Hot100.html</link><description># 1 手撕快排&#13;
+&#13;
+![](https://secure2.wostatic.cn/static/9oXUFGjLT8PNKD1RtxTpp/image.png?auth_key=1711379579-5RuXdG9MZqetRiqfTC32Wb-0-983764c7141f0cb657f3c847b6b4e228)&#13;
+&#13;
+# 2 字母异位词分组&#13;
+&#13;
+![](https://secure2.wostatic.cn/static/dSvEuTRLgEpoty8JjjbXwF/image.png?auth_key=1711379579-ez9vB55bZYBHwTxLs9QsjL-0-b2faf0efbb2441416e1a01185fb898d0)&#13;
+&#13;
+![](https://secure2.wostatic.cn/static/3YvFdqFeQEiNvuSrzgLHFq/image.png?auth_key=1711379579-9GrLemvNyXNBusjH7SMagz-0-976aadfb38b7fbfa71f2cb69971e33b2)&#13;
+&#13;
+# 3 最长连续序列&#13;
+&#13;
+![](https://secure2.wostatic.cn/static/3n7yBPaofBRModwTaH9rYm/image.png?auth_key=1711379579-aZHjdYSn8pbzX22pNn58qz-0-99673477d04dd3d187ab535ed0035de7)&#13;
+&#13;
+**解题思路：**先用set()去重，然后遍历，当上一个值num-1不存在但当前值存在时就继续找下一个。</description><guid isPermaLink="true">https://hughwcq.github.io/post/LeetCode%20Hot100.html</guid><pubDate>Mon, 25 Mar 2024 15:13:39 +0000</pubDate></item></channel></rss>
