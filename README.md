@@ -1,4 +1,4 @@
-# Blog Title :link: https://hughwcq.github.io 
+# Hugh's Personal Blog :link: https://hughwcq.github.io 
 ### :page_facing_up: [1](https://hughwcq.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 17144 
