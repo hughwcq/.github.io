@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Wcq's Personal Blog</title><link>https://hughwcq.github.io</link><description>Personal Blog for hugh, something about coding and AIGC</description><copyright>Wcq's Personal Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hughwcq.github.io</link></image><lastBuildDate>Thu, 08 Aug 2024 09:55:10 +0000</lastBuildDate><managingEditor>Wcq's Personal Blog</managingEditor><ttl>60</ttl><webMaster>Wcq's Personal Blog</webMaster><item><title>Image-to-Video</title><link>https://hughwcq.github.io/post/Image-to-Video.html</link><description>1.AtomoVideo&#13;
-Title:《AtomoVideo: High Fidelity Image-to-Video Generation  》&#13;
-ArXiv:2403.01800&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Wcq's Personal Blog</title><link>https://hughwcq.github.io</link><description>Personal Blog for hugh, something about coding and AIGC</description><copyright>Wcq's Personal Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hughwcq.github.io</link></image><lastBuildDate>Thu, 08 Aug 2024 09:57:55 +0000</lastBuildDate><managingEditor>Wcq's Personal Blog</managingEditor><ttl>60</ttl><webMaster>Wcq's Personal Blog</webMaster><item><title>Image-to-Video</title><link>https://hughwcq.github.io/post/Image-to-Video.html</link><description>### 1. AtomoVideo&#13;
+&#13;
+**Title**:《AtomoVideo: High Fidelity Image-to-Video Generation  》&#13;
+**ArXiv**:2403.01800&#13;
  &#13;
 ![image (3)](https://github.com/user-attachments/assets/c0566210-98c1-4821-8f3f-d1be19023a85)&#13;
 &#13;
